@@ -1,0 +1,9 @@
+Para enviar um diretório do GitHub para a sua máquina
+
+
+Copiar o HTTPS
+Abrir a pasta que irá receber
+Clicar com botão Direto
+GIT Bash
+git clone copiar link
+

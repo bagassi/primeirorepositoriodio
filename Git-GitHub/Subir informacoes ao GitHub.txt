@@ -1,0 +1,13 @@
+Após alterar qualquer informação no arquivo, executar o seguinte processo para subir o arquivo para o GitHub
+
+Abrir o Git
+
+cd pastaquedesejaenviar
+git status (vermelho)
+git add .
+git status (ficará verde)
+git commit -m "Comentário que irá ficar no GitHub"
+gt status
+git push origin main
+
+Atualizar o GitHub arquivo estará atualizado.
